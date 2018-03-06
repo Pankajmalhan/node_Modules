@@ -1,0 +1,21 @@
+{
+  "name": "datamodule",
+  "version": "1.0.0",
+  "description": "This is demo example of extra module",
+
+  "keywords": [
+    "[\"best\"",
+    "\"data\"]"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pankajmalhan/node_Modules"
+  },
+  "dependencies": {
+    "underscore":"1.4.x",
+    "request":">=2.1.0"
+  },
+  "author": "Pankaj Kumar Choudhary",
+  "license": "ISC",
+  "main": "app.js"
+}
